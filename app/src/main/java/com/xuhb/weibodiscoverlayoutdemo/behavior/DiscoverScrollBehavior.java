@@ -18,12 +18,7 @@ import com.xuhb.weibodiscoverlayoutdemo.R;
 import java.util.ArrayList;
 
 /**
- * @author xuhb
- * @version 2.8.2
- * @描述:
- * @Copyright Copyright (c) 2015
- * @Company 杭州传送门网络科技有限公司.
- * @date 16/8/29 下午8:12
+ * 自定义的behavier, 实现交互的核心类
  */
 public class DiscoverScrollBehavior extends AppBarLayout.ScrollingViewBehavior {
 

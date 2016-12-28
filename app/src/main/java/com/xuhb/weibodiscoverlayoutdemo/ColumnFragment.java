@@ -9,14 +9,6 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-/**
- * @author xuhb
- * @version 2.8.2
- * @描述:
- * @Copyright Copyright (c) 2015
- * @Company 杭州传送门网络科技有限公司.
- * @date 16/12/28 上午11:15
- */
 public class ColumnFragment extends Fragment {
 
     public static ColumnFragment newInstance(){

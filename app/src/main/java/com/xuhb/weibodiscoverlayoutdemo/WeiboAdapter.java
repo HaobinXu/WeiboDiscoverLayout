@@ -7,12 +7,7 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 
 /**
- * @author xuhb
- * @version 2.8.2
- * @描述:
- * @Copyright Copyright (c) 2015
- * @Company 杭州传送门网络科技有限公司.
- * @date 16/12/28 上午11:15
+ * recyclerview item适配器
  */
 public class WeiboAdapter extends RecyclerView.Adapter<WeiboAdapter.WeiboViewHolder>{
 
