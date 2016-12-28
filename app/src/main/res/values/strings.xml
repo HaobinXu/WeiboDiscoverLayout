@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">WeiboDiscoverLayoutDemo</string>
+    <string name="top_text">这里可以替换成任何布局</string>
+    <string name="child_layout_text">这里也可以替换成任何布局</string>
+
+    <string-array name="columns">
+        <item>热门</item>
+        <item>榜单</item>
+        <item>头条</item>
+        <item>视频</item>
+    </string-array>
+
+    <string-array name="names">
+        <item>乔任梁</item>
+        <item>王宝强</item>
+        <item>霍华健和林心如结婚</item>
+        <item>南海仲裁</item>
+        <item>美人鱼票房33亿</item>
+        <item>科比退役</item>
+        <item>傅园慧洪荒之力</item>
+        <item>吴亦凡约炮</item>
+        <item>小李子圆梦奥斯卡</item>
+    </string-array>
+</resources>
